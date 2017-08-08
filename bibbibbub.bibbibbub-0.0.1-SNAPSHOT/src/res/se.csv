@@ -1,0 +1,167 @@
+Type,Venue,Abbrv
+2,Generative and Component-Based Software Engineering,GCSE
+2,Requirements Targeting Software and Systems Engineering,RTSE
+1,International Symposium on Service Oriented Software Engineering,SOSE
+2,Theoretical Aspects of Software Engineering,TASE
+1,Joint Conference on Knowledge-Based Software Engineering,JCKBSE
+1,IEEE International Conference on Software Science, Technology and Engineering,SwSTE
+2,Workshop on Interdisciplinary Software Engineering Research,WISER
+1,International Conference on the Unified Modeling Language,UML
+2,International Workshop on Formal Engineering approaches to Software Components and Architectures,FESCA
+2,Software Security, Protection, and Reverse Engineering Workshop,SSPREW 
+2,International Workshop on Model-Driven Engineering for Component-Based Software Systems,ModComp 
+2,Workshop on Open Source Software for Model Driven Engineering,OSS4MDE 
+2,Software Engineering im Unterricht der Hochschulen,SEUH
+2,Software Engineering Theory and Practice,SETP
+2,International Workshop on Empirical Software Engineering in Practice,IWESEP
+1,International Conference on Software Engineering Research and Applications,SERA
+1,International Conference on Software Engineering Advances,ICSEA
+1,International Conference on Evaluation of Novel Approaches to Software Engineering,ENASE
+2,Software Engineering Research and Practice,SERP
+2,Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing,SNPD
+2,Radical Innovations of Software and Systems Engineering in the Future,RISSEF
+2,International Workshop on Software Engineering for Resilient Systems,SERENE
+2,Workshop on Program Analysis For Software Tools and Engineering,PASTE
+1,International Symposium on Software and Systems Traceability,SST
+2,Software Engineering Approaches for Offshore and Outsourced Development,SEAFOOD
+1,ACM SIGSOFT Conference on the Foundations of Software Engineering,FSE
+2,International Workshop on Control Theory for Software Engineering,CTSE 
+2,International Workshop on Engineering of Software Services for Pervasive Environments,ESSPE 
+2,Workshop on Future of Software Engineering Research,FoSER 
+2,International Workshop on Service Oriented Software Engineering,IW-SOSWE 
+2,International Workshop on Social Software Engineering,SSE 
+1,IEEE International Conference on Software Engineering and Formal Methods,SEFM
+2,Software Language Engineering,SLE
+2,Software Engineering and Data Engineering,SEDE
+2,International Workshop on Formal Methods and Analysis in Software Product Line Engineering,FMSPLE 
+1,Canadian Conference on Computer Science & Software Engineering,C3S2E
+1,International Conference on Model-Driven Engineering and Software Development,MODELSWARD
+1,International Symposium on Software Engineering for Parallel and Distributed Systems,PDSE
+1,ACM SIGSOFT/SIGPLAN Software Engineering Symposium on Practical Software Development Environments,SDE
+2,Annual Software Engineering Workshop,SEW
+1,International Conference on Advanced Aspects of Software Engineering,ICAASE
+2,Software Engineering Environments,SEE
+1,International Conference on Software Engineering and Knowledge Engineering,SEKE
+1,International Conference on Human-Centered Software Engineering,HCSE
+1,International Conference on Soft Computing and Software Engineering,SCSE
+2,International School on Engineering Trustworthy Software Systems,SETSS
+1,International Symposium on Software Engineering: Theories, Tools, and Applications,SETTA
+1,Australian Software Engineering Conference,ASWEC
+1,Central and East European Conference on Software Engineering Techniques,CEE-SET
+2,also: Software Engineering Techniques: Design for Quality,SET
+2,International Workshop on Software Engineering for Large-Scale Multi-Agent Systems,SELMAS
+1,International Conference on Intelligent and Adaptive Systems and Software Engineering,IASSE
+2,Rapid Integration of Software Engineering Techniques,RISE
+1,RIMS Symposium on Software Science and Engineering,RIMS
+1,Annual India Software Engineering Conference,ISEC
+2,International Workshop on Software Engineering for Systems-of-Systems,SESoS 
+1,International Conference on Global Software Engineering,ICGSE
+1,European Software Engineering Conference,ESEC
+1,International Symposium on Empirical Software Engineering and Measurement,ESEM
+1,Conference on Software Technology and Engineering Practice,STEP
+1,International Symposium on Search Based Software Engineering,SSBSE
+1,International Conference on Predictive Models in Software Engineering,PROMISE
+2,Workshop on Formal Methods in Software Engineering Education and Training,FMSEE&T 
+2,Pernambuco Summer School on Software Engineering,PSSE
+1,International Conference on Performance Engineering,ICPE
+2,Workshop on Agent-Oriented Software Engineering,AOSE
+2,Workshop on Software Engineering Properties of Languages and Aspect Technologies,SPLAT 
+1,International Conference on Automated Software Engineering,ASE
+2,Generative and Transformational Techniques in Software Engineering,GTTSE
+1,International Symposium on Multimedia Software Engineering,ISMSE
+2,International Workshop on Software Engineering for High Performance Computing in Computational Science and Engineering,SE-HPCCSE 
+2,Software Engineering,SE
+1,International Conference on Multicore Software Engineering, Performance, and Tools,MSEPT
+1,International Conference on Agile Processes in Software Engineering and Extreme Programming,XP
+1,International Conference on Multicore Software Engineering, Performance, and Tools,MUSEPAT
+1,KKIO Software Engineering Conference,KKIO
+2,International Workshop on Software Engineering for Parallel Systems,SEPS 
+2,Software Product Family Engineering,PFE
+2,Software Engineering for Parallel and Distributed Systems,
+2,Conferencia Iberoamericana de Software Engineering,CIbSE
+1,International Conference on Evaluation & Assessment in Software Engineering,EASE
+1,International Conference on Software Engineering and Computer Systems,ICSECS
+2,Experimental Software Engineering Network,ESERNET
+1,International Joint Conferences on Computer, Information, and Systems Sciences, and Engineering,CISSE
+1,Brazilian Symposium on Software Engineering,SBES
+2,Ulusal Yazılım Mühendisliği Sempozyumu,Turkish National Software Engineering Symposium 
+1,International Conference on Software Engineering,ICSE
+2,International Workshop on Big Data Software Engineering,BIGDSE 
+2,International Workshop on Cooperative and Human Aspects of Software Engineering,CHASE 
+2,International Workshop on Combining Modelling and Search-Based Software Engineering,CMSBSE 
+2,International Workshop on CrowdSourcing in Software Engineering,CSI-SE 
+2,International Workshop on Design and Innovation in Software Engineering,DISE 
+2,International Workshop on Establishing the Community-Wide Infrecaseructure for Architecture-Based Software Engineering,ECASE 
+2,International Workshop on Software Engineering Education Based on Real-World Experiences,EduRex 
+2,FME Workshop on Formal Methods in Software Engineering,FormaliSE 
+2,International Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches,FormSERA 
+2,Workshop on Future of Software Engineering,FOSE 
+2,Workshop on Games and Software Engineering,GAS 
+2,International Workshop on a General Theory of Software Engineering,GTSE 
+2,Joined Workshop on oftware Engineering for Systems-of-Systems / Distributed Software Development, Software Ecosystems and Systems-of-Systems,JSOS 
+2,International Workshop on Modeling in Software Engineering,MiSE 
+1,International Conference on Mobile Software Engineering and Systems,MOBILESoft 
+2,International Workshop on Modern Software Engineering Methods for Industrial Automation,MoSEMInA 
+2,International Workshop on Product LinE Approaches in Software Engineering,PLEASE 
+2,International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering,RAISE 
+2,International Workshop on Rapid Continuous Software Engineering,RCoSE 
+2,International Workshop on Recommendation Systems for Software Engineering,RSSE 
+2,International Workshop on Software Engineering for High Performance Computing in Science,SE4HPCS 
+2,International Workshop on Software Engineering for Science,SE4Science 
+2,International Workshop on Software Engineering Challenges for the Smart Grid,SE4SG 
+2,ICSE Workshop on Software Engineering for Adaptive and Self-Managing Systems,SEAMS 
+2,International Workshop on Software Engineering Curricula for Millennials,SECM 
+2,International Workshop on Software Engineering for Computational Science and Engineering,SE-CSE 
+2,International Workshop on Software Engineering for Embedded Systems,SEES 
+2,International Workshop on Software Engineering in Health Care,SEHC 
+2,International Workshop on Software Engineering in Healthcare Systems,SEHS 
+2,ICSE Software Engineering in Society Track,SEIS 
+2,International Workshop on Emotion Awareness in Software Engineering,SEmotion 
+2,International Workshop on Software Engineering Methods in Spreadsheets,SEMS 
+2,International Workshop on Software Engineering Research and Industrial Practices,SER&IPs 
+2,International Workshop on Software Engineering for Smart Cyber-Physical Systems,SEsCPS 
+2,International Workshop on Software Engineering for Systems-of-Systems,SESoS 
+2,International Workshop on Software Engineering for Secure Systems,SESS 
+2,International Workshop on Theory-Oriented Software Engineering,TOSE 
+2,International Workshop on User Evaluation for Software Engineering Researchers,USER 
+2,Apoyo a la Decisión en Ingeniería del Software / Decision Support in Software Engineering,ADIS
+2,OOPSLA Workshop on Reflection and Software Engineering,OORaSE
+2,Requirements Engineering: Foundation for Software Quality,REFSQ
+1,Asia-Pacific Software Engineering Conference,APSEC
+1,Conference on Software Engineering Education and Training,CSEE&T
+1,International Conference on Computer Science and Software Engineering,CSSE
+1,International Symposium on Component-Based Software Engineering,CBSE
+2,Software Engineering and Applications,SEA
+1,IASTED Conference on Software Engineering,SE
+1,EUROMICRO Conference on Software Engineering and Advanced Applications,SEAA
+2,Fundamental Approaches to Software Engineering,FASE
+2,Workshop on Code Hunt on Educational Software Engineering,CHESE 
+2,Colloquium on Object Orientation in Databases and Software Engineering,COODBSE
+2,Engineering Secure Software and Systems,ESSoS
+2,Workshop on Software Engineering and Architectures for Realtime Interactive Systems,SEARIS
+2,International Workshop on Education and Training for Quality Software Engineering,ETQSE 
+2,International Workshop on Integration of Software Engineering and Agent Technology,ISEAT 
+2,Fundamentals of Software Engineering,FSEN
+2,International Workshop on Ontology, Conceptualization and Epistemology for Information Systems, Software Engineering and Service Science,ONTOSE 
+1,IEEE International Conference on Software Analysis, Evolution, and Reengineering,SANER
+1,IEEE International Symposium on Software Reliability Engineering,ISSRE
+2,International Workshop on Software Engineering and Middleware,SEM
+2,International Summer Schools on Software Engineering,ISSSE
+2,International Workshop on Software Engineering for Sensor Network Applications,SESENA
+2,Journal of Software Engineering and Applications,JSEA
+2,Innovations in Systems and Software Engineering,
+2,Annals of Software Engineering,
+2,ACM Transactions on Software Engineering and Methodology,TOSEM
+2,Automated Software Engineering,
+2,Empirical Software Engineering,
+2,International Journal of Software Engineering and Knowledge Engineering,IJSEKE
+2,Advances in Engineering Software,
+2,ACM SIGSOFT Software Engineering Notes,
+2,Journal of Software Engineering Research and Development,JSERD
+2,Advances in Software Engineering,
+2,e-Informatica Software Engineering Journal,
+2,International Journal of Secure Software Engineering,IJSSE
+2,IEEE Transactions on Software Engineering,TSE
+2,International Journal of Agent-Oriented Software Engineering,IJAOSE
+2,Series on Software Engineering and Knowledge Engineering,
+2,NASA Monographs in Systems and Software Engineering,
